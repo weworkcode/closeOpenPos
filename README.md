@@ -1,0 +1,2 @@
+# closeOpenPos
+Automatic closing position
